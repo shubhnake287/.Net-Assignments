@@ -1,0 +1,7 @@
+C:\Users\shubh\source\repos\Day4\Assign-3-IDbFunctions\bin\Debug\Assign-3-IDbFunctions.exe.config
+C:\Users\shubh\source\repos\Day4\Assign-3-IDbFunctions\bin\Debug\Assign-3-IDbFunctions.exe
+C:\Users\shubh\source\repos\Day4\Assign-3-IDbFunctions\bin\Debug\Assign-3-IDbFunctions.pdb
+C:\Users\shubh\source\repos\Day4\Assign-3-IDbFunctions\obj\Debug\Assign-3-IDbFunctions.csprojAssemblyReference.cache
+C:\Users\shubh\source\repos\Day4\Assign-3-IDbFunctions\obj\Debug\Assign-3-IDbFunctions.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\Day4\Assign-3-IDbFunctions\obj\Debug\Assign-3-IDbFunctions.exe
+C:\Users\shubh\source\repos\Day4\Assign-3-IDbFunctions\obj\Debug\Assign-3-IDbFunctions.pdb

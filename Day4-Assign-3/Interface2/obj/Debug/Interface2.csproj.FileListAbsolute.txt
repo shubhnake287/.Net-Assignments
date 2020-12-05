@@ -1,0 +1,7 @@
+C:\Users\shubh\source\repos\Day4\Interface2\bin\Debug\Interface2.exe.config
+C:\Users\shubh\source\repos\Day4\Interface2\bin\Debug\Interface2.exe
+C:\Users\shubh\source\repos\Day4\Interface2\bin\Debug\Interface2.pdb
+C:\Users\shubh\source\repos\Day4\Interface2\obj\Debug\Interface2.csprojAssemblyReference.cache
+C:\Users\shubh\source\repos\Day4\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\Day4\Interface2\obj\Debug\Interface2.exe
+C:\Users\shubh\source\repos\Day4\Interface2\obj\Debug\Interface2.pdb
