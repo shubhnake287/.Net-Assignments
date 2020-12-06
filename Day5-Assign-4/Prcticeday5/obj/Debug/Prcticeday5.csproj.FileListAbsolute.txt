@@ -1,0 +1,7 @@
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Prcticeday5\bin\Debug\Prcticeday5.exe.config
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Prcticeday5\bin\Debug\Prcticeday5.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Prcticeday5\bin\Debug\Prcticeday5.pdb
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Prcticeday5\obj\Debug\Prcticeday5.csprojAssemblyReference.cache
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Prcticeday5\obj\Debug\Prcticeday5.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Prcticeday5\obj\Debug\Prcticeday5.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Prcticeday5\obj\Debug\Prcticeday5.pdb

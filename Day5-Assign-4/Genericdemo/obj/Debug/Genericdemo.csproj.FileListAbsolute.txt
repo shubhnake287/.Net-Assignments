@@ -1,0 +1,7 @@
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Genericdemo\bin\Debug\Genericdemo.exe.config
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Genericdemo\bin\Debug\Genericdemo.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Genericdemo\bin\Debug\Genericdemo.pdb
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Genericdemo\obj\Debug\Genericdemo.csprojAssemblyReference.cache
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Genericdemo\obj\Debug\Genericdemo.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Genericdemo\obj\Debug\Genericdemo.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Genericdemo\obj\Debug\Genericdemo.pdb

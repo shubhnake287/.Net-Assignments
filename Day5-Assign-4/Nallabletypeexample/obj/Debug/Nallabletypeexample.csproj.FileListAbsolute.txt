@@ -1,0 +1,6 @@
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Nallabletypeexample\bin\Debug\Nallabletypeexample.exe.config
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Nallabletypeexample\bin\Debug\Nallabletypeexample.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Nallabletypeexample\bin\Debug\Nallabletypeexample.pdb
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Nallabletypeexample\obj\Debug\Nallabletypeexample.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Nallabletypeexample\obj\Debug\Nallabletypeexample.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Nallabletypeexample\obj\Debug\Nallabletypeexample.pdb

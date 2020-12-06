@@ -1,0 +1,7 @@
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Jaggedarraydemo\bin\Debug\Jaggedarraydemo.exe.config
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Jaggedarraydemo\bin\Debug\Jaggedarraydemo.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Jaggedarraydemo\bin\Debug\Jaggedarraydemo.pdb
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Jaggedarraydemo\obj\Debug\Jaggedarraydemo.csprojAssemblyReference.cache
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Jaggedarraydemo\obj\Debug\Jaggedarraydemo.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Jaggedarraydemo\obj\Debug\Jaggedarraydemo.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Jaggedarraydemo\obj\Debug\Jaggedarraydemo.pdb

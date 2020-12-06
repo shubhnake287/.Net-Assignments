@@ -1,0 +1,6 @@
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Array-Assign4-2\bin\Debug\Array-Assign4-2.exe.config
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Array-Assign4-2\bin\Debug\Array-Assign4-2.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Array-Assign4-2\bin\Debug\Array-Assign4-2.pdb
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Array-Assign4-2\obj\Debug\Array-Assign4-2.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Array-Assign4-2\obj\Debug\Array-Assign4-2.exe
+C:\Users\shubh\Desktop\.Net 30-11-2020\Day5\Array-Assign4-2\obj\Debug\Array-Assign4-2.pdb
