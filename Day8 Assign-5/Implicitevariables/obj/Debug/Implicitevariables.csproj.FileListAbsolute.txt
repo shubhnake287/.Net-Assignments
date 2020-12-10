@@ -1,0 +1,7 @@
+C:\Users\shubh\source\repos\Day8\Implicitevariables\bin\Debug\Implicitevariables.exe.config
+C:\Users\shubh\source\repos\Day8\Implicitevariables\bin\Debug\Implicitevariables.exe
+C:\Users\shubh\source\repos\Day8\Implicitevariables\bin\Debug\Implicitevariables.pdb
+C:\Users\shubh\source\repos\Day8\Implicitevariables\obj\Debug\Implicitevariables.csprojAssemblyReference.cache
+C:\Users\shubh\source\repos\Day8\Implicitevariables\obj\Debug\Implicitevariables.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\Day8\Implicitevariables\obj\Debug\Implicitevariables.exe
+C:\Users\shubh\source\repos\Day8\Implicitevariables\obj\Debug\Implicitevariables.pdb
